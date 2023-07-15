@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there 👋👨‍✈️
 
+I am Wajdi Bounouara. I am a Principal Data Engineer at National Bank of Canada. I'm currently working on the bank's Data Analytics platform.
+
+To learn more about my experience, please visit my [resume site 📄](https://wajdi.net).
+
+📫 To reach me, say [hi@wajdi.net](mailto:hi@wajdi.net?subject=👋)
 <!--
 **wajdi-b/wajdi-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
