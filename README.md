@@ -1,6 +1,6 @@
 ### Hi there 👋👨‍✈️
 
-I am Wajdi Bounouara. I am a Principal Data Engineer at National Bank of Canada. I'm currently working on the bank's Data Analytics platform.
+I am Wajdi Bounouara. I am a Senior Solutions Consultant at Databricks. I'm helping companies all sizes with their Big Data & analytics projects.
 
 To learn more about my experience, please visit my [resume site 📄](https://wajdi.net).
 
